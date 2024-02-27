@@ -13,6 +13,6 @@ I'm Julián, a 19 years junior developer from Colombia!
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [julianx.dev](https://julianx.dev)
+- [julianx.dev](https://julianx.dev) on Process lol
 - [@julianrx_](https://twitter.com/julianrx_) on Twitter
 - [@julianrxx](./) on Discord
