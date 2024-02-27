@@ -5,7 +5,7 @@
 ## Hey, there! 👋
 I'm Julián, a 19 years junior developer from Colombia!
 
-- 👨‍💻 Studying of Software Engineering
+- 👨‍💻 Studying Software Engineering
 - 🎓 Graduate of Software Development Technologist
 
 ## Skills
