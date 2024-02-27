@@ -5,7 +5,8 @@
 ## Hey, there! 👋
 I'm Julián, a 19 years junior developer from Colombia!
 
-- 👨‍💻 Studying of [ArConnect](https://arconnect.io) Fundation College Compensar
+- 👨‍💻 Studying of Software Engineering
+- 🎓 Graduate of Software Development
 
 ## Skills
 - 👨‍💻 Java, Python, PHP 
@@ -13,6 +14,5 @@ I'm Julián, a 19 years junior developer from Colombia!
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [julianx.dev](https://julianx.dev) on Process lol
 - [@julianrx_](https://twitter.com/julianrx_) on Twitter
-- [@julianrxx](./) on Discord
+- [@julianrxx](discord.com/juliannrx) on Discord
