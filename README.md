@@ -1,28 +1,18 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/julianxdev/julianxdev/main/name2.svg" alt="julianjm />
+  <img src="https://raw.githubusercontent.com/julianxdev/julianxdev/main/name2.svg" alt="JulianX" />
 </h1>
 
 ## Hi! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Julián, a 19-year-old junior developer from Colombia!
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
-
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
-
-+ a lot more ;)
+- 👨‍💻 Studying of [ArConnect](https://arconnect.io) Fundation College Compensar
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
+- 👨‍💻 Java, Python, PHP 
+- 👁️ SASS, CSS,
 - 💽 MySQL, SQL, Mongo
-+ a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [julianx.dev](https://julianx.dev)
+- [@julianrx_](https://twitter.com/julianrx_) on Twitter
+- [@julianrxx](./) on Discord
