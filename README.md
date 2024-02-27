@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey, there! 👋
-I'm Julián, a 19 years junior developer from Colombia!
+I'm Julián, a 19 years junior developer from Colombia 🇨🇴!
 
 - 👨‍💻 Studying of Software Engineering
 - 🎓 Graduate of Software Development Technologist
