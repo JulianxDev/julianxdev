@@ -10,7 +10,7 @@ I'm Julián, a 19 years junior developer from Colombia!
 
 ## Skills
 - 👨‍💻 Java, Python, PHP 
-- 👁️ SASS, CSS,
+- 👁️ SASS, CSS
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
