@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/julianxdev/main/name2.svg" alt="Julián Riveros" />
+  <img src="julianxdev/main/name2.svg" alt="Julián Riveros" />
 </h1>
 
-## Hey! 👋
+## Hi! 👋
 I'm Marton, a 20 years old web developer from Hungary.
 
 - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
