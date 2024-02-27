@@ -15,4 +15,4 @@ I'm Julián, a 19 years junior developer from Colombia!
 
 ## Contact
 - [@julianrx_](https://twitter.com/julianrx_) on Twitter
-- [@julianrxx](./) on Discord
+- [@juliannrx](./) on Discord
